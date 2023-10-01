@@ -1,7 +1,6 @@
-<img align="center" alt="Coding" width="400" height="200" src="./github-header-image.png">
 ### Hello there 👋
 # Nice to see you here!
-<img align="right" alt="Coding" width="400" height="300" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="400" height="300" src="[https://i.gifer.com/ZRPm.gif](https://www.freepik.com/free-vector/glitch-error-404page_4121421.htm#query=error%20screen&position=0&from_view=keyword&track=ais)">
 
 <div align="left" width="299" padding="100">
 Hello there! I'm Snehal Saurabh. I like trying on multiple hats in the field of tech.  
@@ -10,7 +9,7 @@ Started off as an occasional Competitive Programmer with a bit of a taste in the
 <br>
 - 📖 I’m currently learning and exploring <b>Fullstack Web Development</b> and <b>DevOps</b>
 
-<br><br><br><br>
+<br><br>
 ## Languages :
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js)
 
