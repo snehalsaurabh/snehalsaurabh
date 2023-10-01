@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img align="center" alt="Coding" width="400" height="200" src="./github-header-image.png">
 ### Hello there 👋
 # Nice to see you here!
 <img align="right" alt="Coding" width="400" height="300" src="https://i.gifer.com/3AyY.gif">
