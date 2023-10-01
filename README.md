@@ -1,6 +1,6 @@
 ### Hello there 👋
 # Nice to see you here!
-<img align="right" alt="Coding" width="400" height="300" src="[https://i.gifer.com/ZRPm.gif](https://www.freepik.com/free-vector/glitch-error-404page_4121421.htm#query=error%20screen&position=0&from_view=keyword&track=ais)">
+<img align="right" alt="Coding" width="400" height="300" src="./4121421_2153483.jpg">
 
 <div align="left" width="299" padding="100">
 Hello there! I'm Snehal Saurabh. I like trying on multiple hats in the field of tech.  
