@@ -12,7 +12,7 @@ Started off as an occasional Competitive Programmer with a bit of a taste in the
 
 <br><br><br><br>
 ## Languages :
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js)
 
 ## Tools :
 ![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,cmake,mysql,netlify,replit)
