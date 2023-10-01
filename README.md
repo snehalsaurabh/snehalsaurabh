@@ -1,7 +1,7 @@
-![logo](./github-header-image.png)
+![header](./github-header-image.png)
 ### Hello there 👋
-# Nice to see you!
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+# Nice to see you here!
+<img align="right" alt="Coding" width="400" height="300" src="https://i.gifer.com/3AyY.gif">
 
 <div align="left" width="299" padding="100">
 Hello there! I'm Snehal Saurabh. I like trying on multiple hats in the field of tech.  
