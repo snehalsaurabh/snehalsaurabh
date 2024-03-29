@@ -7,7 +7,8 @@ Hello there! I'm Snehal Saurabh. I like trying on multiple hats in the field of 
 Started off as an occasional Competitive Programmer with a bit of a taste in the field of Machine Learning. Recently, I've ventured into the dynamic world of web-based development, where I'm constantly learning and honing my skills. 
 </div>
 <br>
-- 📖 I’m currently learning and exploring <b>Fullstack Web Development</b> and <b>DevOps</b>
+- 📖 I’m currently learning and deep diving into <b>Artificial Intelligence & Machine Learning</b>
+- 📖 I'm currently exploring <b>Web Development</b> on the sidelines.
 
 <br><br>
 ## Languages :
