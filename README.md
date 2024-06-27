@@ -15,10 +15,6 @@
 <a href="https://linkedin.com/in/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehalsaurabh" height="30" width="40" /></a>
 <a href="https://kaggle.com/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="snehalsaurabh" height="30" width="40" /></a>
 <a href="https://instagram.com/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snehalsaurabh" height="30" width="40" /></a>
-<a href="https://hashnode.com/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="snehalsaurabh" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/snehalsaurabh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehalsaurabh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snehalsaurabh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/snehalsaurabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snehalsaurabh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
